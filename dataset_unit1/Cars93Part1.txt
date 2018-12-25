@@ -1,0 +1,7 @@
+    Cadillac   Large       16  
+       Acura   Small       25  
+       Buick Midsize       22  
+   Chevrolet Compact       25  
+         BMW Midsize       22  
+    Chrylser   Large       20  
+        Audi Compact       20  

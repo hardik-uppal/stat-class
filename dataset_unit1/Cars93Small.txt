@@ -1,0 +1,4 @@
+Small        Acura Integra       25 
+Small        Dodge    Colt       29 
+Small        Dodge  Shadow       23 
+Small        Eagle  Summit       29 

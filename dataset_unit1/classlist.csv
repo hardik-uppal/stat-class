@@ -1,0 +1,6 @@
+gender,id,race,ses,schtyp,prgtype,read,write,math,science,socst
+0,70,4,1,1,general,57,52,41,47,57
+1,121,4,2,1,vocati,68,59,53,63,61
+0,86,4,3,1,general,44,33,54,58,31
+0,141,4,3,1,vocati,63,44,47,53,56
+0,172,4,2,1,academic,47,52,57,53,61

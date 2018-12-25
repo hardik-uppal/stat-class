@@ -1,0 +1,6 @@
+Large        Buick        LeSabre       19          28 4800
+Large        Buick     Roadmaster       16          25 4000
+Large     Cadillac        DeVille       16          25 4100
+Large    Chevrolet        Caprice       17          26 4200
+Large     Chrylser       Concorde       20          28 5300
+Large     Chrysler       Imperial       20          26 4800
